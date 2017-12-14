@@ -9,3 +9,6 @@ aa()
 def aa2():
     print("sss")
 aa2()
+def aa3():
+    print("sssqq")
+aa3()
